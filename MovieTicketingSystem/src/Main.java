@@ -17,9 +17,9 @@ public class Main {
         moviesList.add(m3);
 
         ArrayList<User> users = new ArrayList<User>();
-        User u1 = new User("Shreebisha", 19,"shreebisha23stha@gmail.com");
+        User u1 = new User("ojeshwi", 19,"ojeshwi2005@gmail.com");
         users.add(u1);
-        User u2 = new User("Shiyam", 18, "shiyam98shortie@gmail.com");
+        User u2 = new User("yam", 18, "yamyadav@gmail.com");
         users.add(u2);
 
         ArrayList<Seats> seats = new ArrayList<>();
